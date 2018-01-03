@@ -1,10 +1,12 @@
 # 范鼎
 
-13764840020 zichuange@gmail.com github.com/Ding-Fan
+- 13764840020
+- zichuange@gmail.com
+- github.com/Ding-Fan
 
 ## 概况
 
-男，22 岁，本科，前端工程师，工作经验 1 年
+男，23 岁，本科，前端工程师，工作经验 1 年
 
 ## 技能描述
 
